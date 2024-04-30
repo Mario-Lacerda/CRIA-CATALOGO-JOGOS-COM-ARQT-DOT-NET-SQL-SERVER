@@ -110,7 +110,7 @@ DELETE /api/games/{id}
 
 ------
 
-<img src="C:\CRIA-CATALOGO-JOGOS-COM-ARQT-DOT-NET-SQL-SERVER-MARIO2\API_Catalogo_Jogos-F-MARIO\img\Arquitetura.png" style="zoom:60%;" />
+<img src="img\Arquitetura.png" style="zoom:60%;" />
 
 
 
@@ -118,11 +118,11 @@ DELETE /api/games/{id}
 
 ------
 
-<img src="C:\CRIA-CATALOGO-JOGOS-COM-ARQT-DOT-NET-SQL-SERVER-MARIO2\API_Catalogo_Jogos-F-MARIO\img\Index.png" style="zoom:50%;" />
+<img src="img\Index.png" style="zoom:50%;" />
 
 
 
-<img src="C:\CRIA-CATALOGO-JOGOS-COM-ARQT-DOT-NET-SQL-SERVER-MARIO2\API_Catalogo_Jogos-F-MARIO\img\GET.png" style="zoom:50%;" />
+<img src="img\GET.png" style="zoom:50%;" />
 
 <img src="img\GET2.png" style="zoom:50%;" />
 
